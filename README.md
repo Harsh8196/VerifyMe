@@ -9,7 +9,7 @@ Blockchain helps us to minimize this type of fraud. We are here to help you out.
 
 ## VerifyMe Testnet Contract Address
 
-0x23776dBb7F5Ee239B4735441c6ED4778F850200F
+0x7c0Bc53A114CA8e77238C78c3e8155a87b35067E
 
 ## Demo Video
 
